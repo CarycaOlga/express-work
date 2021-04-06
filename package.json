@@ -1,0 +1,11 @@
+{
+  "name": "express-work",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/CarycaOlga/express-work.git",
+  "author": "Natalia Lemańczyk <nataliaolga2@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.17.1"
+  }
+}

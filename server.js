@@ -22,7 +22,7 @@ app.get('/about', (req,res) => {
   res.show('about.html');
 });
 
-app.get('/user/', (req,res) => {
+app.use('/user/', (req,res) => {
   res.show('forbidden.html');
 })
 
